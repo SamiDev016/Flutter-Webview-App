@@ -1,17 +1,36 @@
-# webview_app
+# 🌐 Central TIC WebView App
 
-A new Flutter project.
+A lightweight and modern Flutter WebView application that supports **file upload**, optimized for **Android**, and loads the official website of [central-tic.dz](https://central-tic.dz).
 
-## Getting Started
+![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-blue?logo=flutter)
+![Platform](https://img.shields.io/badge/Platform-Android-green?logo=android)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/0000000/preview.gif" alt="App Preview" width="300">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Flutter-Webview-App" 
+---
+
+## ✨ Features
+
+✅ Loads [central-tic.dz](https://central-tic.dz) inside the app  
+✅ File upload (image picker, document upload)  
+✅ JavaScript support enabled  
+✅ Fullscreen and media playback support  
+✅ Mobile-optimized UI  
+✅ Permission handling for file and media access
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/central_tic_webview.git
+cd central_tic_webview
