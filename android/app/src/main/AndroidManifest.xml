@@ -10,7 +10,7 @@
     <application
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
-        android:label="webview_app"
+        android:label="Makeup Distribution"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

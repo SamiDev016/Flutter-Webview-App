@@ -54,7 +54,7 @@ class _SimpleWebViewState extends State<SimpleWebView> {
           onPageFinished: (_) => setState(() => isLoading = false),
         ),
       )
-      ..loadRequest(Uri.parse("https://central-tic.dz/"));
+      ..loadRequest(Uri.parse("https://makeup-distribution.com/"));
 
     _controller = controller;
   }

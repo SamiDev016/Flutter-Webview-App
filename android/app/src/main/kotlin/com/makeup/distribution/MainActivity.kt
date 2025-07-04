@@ -1,4 +1,4 @@
-package com.example.webview_app
+package com.makeup.distribution
 
 import io.flutter.embedding.android.FlutterActivity
 
